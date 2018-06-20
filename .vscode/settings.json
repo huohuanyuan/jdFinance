@@ -1,0 +1,13 @@
+{
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "eslint.options": {
+        "configFile": "C:/Users/Administrator/projects/JDFinance/.eslintrc.js",
+        "plugins": ["html"]
+    }
+ 
+}
