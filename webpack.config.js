@@ -27,7 +27,7 @@ module.exports = env => {
     // entry: {
     //   app: './app/js/main.js'
     // },
-    webpack打包时将viewport.js也打包进来
+    //webpack打包时将viewport.js也打包进来
     entry:['./app/js/main.js','./app/js/viewport.js'],
     devServer: {
       contentBase: './dist',
